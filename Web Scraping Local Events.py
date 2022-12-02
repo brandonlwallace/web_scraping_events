@@ -3,8 +3,6 @@
 
 @author: Brandon Wallace
 
-Webscraping for final project
-
 """
 
 # Scraping the web for food events and free food
